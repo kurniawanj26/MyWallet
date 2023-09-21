@@ -1,0 +1,28 @@
+const images = {
+  iconNotification: require('../icons/btnNotifications.png'),
+  userAvatar: require('../icons/placeholder.png'),
+  friend1: require('../icons/friend1.png'),
+  friend2: require('../icons/friend2.png'),
+  backArrow: require('../icons/backArrow.png'),
+  cardLogo1: require('../icons/cardLogo1.png'),
+  cardLogo2: require('../icons/cardLogo2.png'),
+  cardLogo3: require('../icons/cardLogo3.png'),
+  cardBackground1: require('../icons/cardBackground1.png'),
+  cardBackground2: require('../icons/cardBackground2.png'),
+  cardBackground3: require('../icons/cardBackground3.png'),
+  iconCard: require('../icons/iconCard.png'),
+  iconChart: require('../icons/iconChart.png'),
+  iconHome: require('../icons/iconHome.png'),
+  filter: require('../icons/filter.png'),
+  iconSearch: require('../icons/iconSearch.png'),
+  bankLogo1: require('../icons/bankLogo1.png'),
+  bankLogo2: require('../icons/bankLogo2.png'),
+  bankLogo3: require('../icons/bankLogo3.png'),
+  bankLogo4: require('../icons/bankLogo4.png'),
+  bankLogo5: require('../icons/bankLogo5.png'),
+  iconCheck: require('../icons/icons8-checked.png'),
+  iconOption: require('../icons/iconOption.png'),
+  iconMenu: require('../icons/icons8-menu_2.png'),
+}
+
+export default images
